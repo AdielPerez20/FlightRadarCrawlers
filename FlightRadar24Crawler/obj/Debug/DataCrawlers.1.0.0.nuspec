@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DataCrawlers</id>
+    <version>1.0.0</version>
+    <authors>DataCrawlers</authors>
+    <owners>DataCrawlers</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="HtmlAgilityPack" version="1.11.23" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver" version="2.10.4" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/bin/Debug/netcoreapp3.1/DataCrawlers.runtimeconfig.json" target="lib/netcoreapp3.1/DataCrawlers.runtimeconfig.json" />
+    <file src="/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/bin/Debug/netcoreapp3.1/DataCrawlers.dll" target="lib/netcoreapp3.1/DataCrawlers.dll" />
+  </files>
+</package>

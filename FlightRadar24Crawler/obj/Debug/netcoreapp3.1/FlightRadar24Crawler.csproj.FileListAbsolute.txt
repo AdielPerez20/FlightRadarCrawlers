@@ -1,0 +1,15 @@
+/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/bin/Debug/netcoreapp3.1/FlightRadar24Crawler.deps.json
+/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/bin/Debug/netcoreapp3.1/FlightRadar24Crawler.runtimeconfig.json
+/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/bin/Debug/netcoreapp3.1/FlightRadar24Crawler.runtimeconfig.dev.json
+/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/bin/Debug/netcoreapp3.1/FlightRadar24Crawler.dll
+/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/bin/Debug/netcoreapp3.1/FlightRadar24Crawler.pdb
+/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/bin/Debug/netcoreapp3.1/HtmlAgilityPack.dll
+/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/obj/Debug/netcoreapp3.1/FlightRadar24Crawler.csproj.CoreCompileInputs.cache
+/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/obj/Debug/netcoreapp3.1/FlightRadar24Crawler.AssemblyInfoInputs.cache
+/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/obj/Debug/netcoreapp3.1/FlightRadar24Crawler.AssemblyInfo.cs
+/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/obj/Debug/netcoreapp3.1/FlightRadar24Crawler.csproj.CopyComplete
+/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/obj/Debug/netcoreapp3.1/FlightRadar24Crawler.dll
+/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/obj/Debug/netcoreapp3.1/FlightRadar24Crawler.pdb
+/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/obj/Debug/netcoreapp3.1/FlightRadar24Crawler.genruntimeconfig.cache
+/Users/adielperez/Desktop/FlightRadar24Crawler/FlightRadar24Crawler/obj/Debug/netcoreapp3.1/FlightRadar24Crawler.csprojAssemblyReference.cache
